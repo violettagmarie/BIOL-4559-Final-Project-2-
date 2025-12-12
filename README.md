@@ -5,7 +5,7 @@ This repository contains code and data for modeling superspreading in infectious
 
 ## Repository structure
 
-- `code file/modeling_superspreading.ipynb`
+- `proj_final.ipynb`
 - `dataset/edgelists1.csv`
 - `dataset/node_info1.csv`
 - `README.md`
@@ -14,7 +14,7 @@ This repository contains code and data for modeling superspreading in infectious
 
 ## Code
 
-The `modeling_superspreading.ipynb` notebook contains the full analysis workflow:
+The `proj_final.ipynb` notebook contains the full analysis workflow:
 - Construction of infection trees from empirical transmission edge lists  
 - Estimation of Negative Binomial offspring distributions using the method of moments  
 - Simulation of Galton–Watson branching processes with and without group-size controls  
