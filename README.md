@@ -3,17 +3,19 @@
 
 This repository contains code and data for modeling superspreading in infectious disease outbreaks using infection trees and branching-process simulations. The analysis examines how imposing group-size controls—implemented as tail-cut thresholds on secondary infections—alters outbreak size and extinction dynamics across multiple real-world transmission networks.
 
+
 ## Repository Structure
 
 .
 ├── code/
 │ └── modeling_superspreading.ipynb
-│
 ├── dataset/
 │ ├── edgelists1.csv
 │ └── node_info1.csv
-│
 └── README.md
+
+Copy code
+
 
 
 ### `code/`
